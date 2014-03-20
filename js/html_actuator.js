@@ -79,11 +79,7 @@ HTMLActuator.prototype.addTile = function (tile) {
       inner.textContent = "政力";
       break;
       case 64:
-<<<<<<< HEAD
       inner.textContent = "玮姐";
-=======
-      inner.textContnet = "test";
->>>>>>> 7f0350a66e25098eedb8d235b696929ed336e91a
       break;
       case 128:
       inner.textContent = "王砾";
